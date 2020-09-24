@@ -5,16 +5,16 @@
   <a href="https://antfu.me/blog">
     <img src='https://github.com/antfu/antfu/raw/master/blog.svg?sanitize=true' alt="Blog" title="Blog" height='55px'/>
   </a>　
-  <a href="https://github.com/antfu">
+  <a href="https://antfu.me/projects">
     <img src='https://github.com/antfu/antfu/raw/master/projects.svg?sanitize=true' alt="Projects" title="Projects" height='55px'/>
   </a>　
+  <a href="https://twitter.com/antfu7">
+    <img src='https://github.com/antfu/antfu/raw/master/tweets.svg?sanitize=true' alt="Tweets" title="Tweets" height='55px'/>
+  </a>　
+  <a href="https://instagram.com/antfu7">
+    <img src='https://github.com/antfu/antfu/raw/master/photos.svg?sanitize=true' alt="Photos" title="Photos" height='55px'/>
+  </a>　
   <a href="https://github.com/sponsors/antfu">
-    <img src='https://github.com/antfu/antfu/raw/master/goals.svg?sanitize=true' alt="Goals" title="Goals" height='55px'/>
-  </a>　
-  <a href="https://twitter.com/antfu7">
-    <img src='https://github.com/antfu/antfu/raw/master/updates.svg?sanitize=true' alt="Updates" title="Updates" height='55px'/>
-  </a>　
-  <a href="https://twitter.com/antfu7">
     <img src='https://github.com/antfu/antfu/raw/master/sponsor.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='55px'/>
   </a>
 </p>
