@@ -1,0 +1,23 @@
+{
+  "name": "antfu",
+  "version": "0.0.0",
+  "description": "Hi, I am Anthony Fu",
+  "bugs": "https://github.com/antfu/antfu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antfu/antfu"
+  },
+  "funding": "https://github.com/sponsors/antfu",
+  "license": "MIT",
+  "author": "antfu <anthonyfu117@hotmail.com>",
+  "main": "index.js",
+  "bin": {
+    "antfu": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
