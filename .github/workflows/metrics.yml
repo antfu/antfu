@@ -37,7 +37,6 @@ jobs:
           # plugin_notable_filter: stars:>100
           # plugin_notable_from: organization
           # plugin_notable_indepth: yes
-          use_prebuilt_image: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
